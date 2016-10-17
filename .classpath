@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Depend_lib/iReport.jar"/>
+	<classpathentry kind="lib" path="Depend_lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="Depend_lib/itext-rtf-2.1.7.jar"/>
+	<classpathentry kind="lib" path="Depend_lib/iTextAsian.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
